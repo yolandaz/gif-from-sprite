@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords":[
+      "gif",
+      "sprite",
+      "api",
+      "canvas",
+      "gifencoder"
+  ],
+  "repository": {
+      "type":"git",
+      "url":"https://github.com/Anwesh43/gif-from-sprite"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
