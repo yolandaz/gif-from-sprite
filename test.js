@@ -1,2 +1,2 @@
 const GifFromSprite = require('.')
-GifFromSprite.create('jump.png','jump.gif',100,2,4)
+GifFromSprite.create('jump.png','jump.gif',75,2,4)
